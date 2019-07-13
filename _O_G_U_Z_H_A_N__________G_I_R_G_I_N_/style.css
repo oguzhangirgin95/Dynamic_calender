@@ -1,0 +1,40 @@
+
+table, td {
+    border: 1px solid black;
+    background-color:greenyellow;
+    border-collapse: collapse;
+  }
+  
+th {
+    border: 1px solid black;
+    width: 220px;
+    background-color:teal;
+  }
+
+td {
+    width: 220px;
+    height: 110px;
+    vertical-align: bottom;
+  }
+p {
+      padding-bottom:110px;
+  }
+a {
+    background-color: blue;
+    padding-inline-start: 0%;
+    padding-inline-end: 77%;
+  }
+a.def{
+    background-color: blue;
+    padding-inline-end: 100%;
+}
+
+  p.top {
+    padding-bottom:75px;
+  }
+  p.down{
+    padding-bottom:100px;
+  }
+  p.def{
+    padding-bottom:0px;
+  }
